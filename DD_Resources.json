@@ -781,7 +781,7 @@
             ]
         },
 		{
-            "dinoType": "/AAArchelon/Dinos/ArchelonAA_Character_BP.ArchelonAA_Character_BP",
+            "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
             "chanceToProduce": 1.0,
             "produces": [
                 {
@@ -813,7 +813,7 @@
                     "itemSelectMode": 0,
                     "items": [
                         {
-                            "bpPath": "/AAArchelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae.PrimalItemConsumable_Veggie_TurtleAlgae",
+                            "bpPath": "/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA",
                             "maxQuantityPerCycle": 10,
                             "maxQuantityInTerminal": 50000,
                             "quantityPerDino": 1,
